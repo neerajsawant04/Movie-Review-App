@@ -1,0 +1,40 @@
+name: cine_stream
+description: "Every News on one tap."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  url_launcher: ^6.3.0
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.0.1  
+  google_sign_in: ^6.0.0
+  webview_flutter: ^4.0.0
+  cached_network_image: ^3.2.1
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+  flutter_launcher_icons: ^0.13.0 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/banner.jpg
+    - assets/logo/nakul.png  
+  fonts:
+    - family: Times New Roman
+      fonts:
+        - asset: assets/fonts/TimesNewRoman.ttf
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/nakul.png" # Ensure this path is correct
