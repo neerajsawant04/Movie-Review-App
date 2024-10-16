@@ -2,16 +2,17 @@
 
 CineStream is a Flutter application that allows users to explore trending movies, read reviews, and share their opinions. This project serves as a starting point for building a rich and engaging movie review experience.
 
-## Getting Started
+## Getting Started:
 
-This project is a starting point for a Flutter application. To get the app running on your local machine, follow these steps:
+This project is a starting point for a Flutter application. To get the app running on your local machine, 
+Follow these steps:
 
-### Prerequisites
+### Prerequisites:
 
 - Ensure you have [Flutter](https://flutter.dev/docs/get-started/install) installed on your machine.
 - You should have a compatible IDE (like Visual Studio Code or Android Studio) set up for Flutter development.
 
-### Installation
+### Installation:
 
 1. Clone the repository:
    ```bash
@@ -26,7 +27,7 @@ This project is a starting point for a Flutter application. To get the app runni
     ```bash
     flutter run
 
-### Features
+### Features:
 - Browse trending movies.
-- Read detailed movie reviews
+- Read detailed movie reviews.
 - User-friendly interface with smooth navigation.
