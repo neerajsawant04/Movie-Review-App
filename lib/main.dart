@@ -168,20 +168,6 @@ class MovieHomeScreen extends StatelessWidget {
             title: 'Trending Movies',
              
             movieImages: [
-{
-                'url':
-                    'https://images.moneycontrol.com/static-mcnews/2024/10/20241009184828_Ratan-Tata-2-TT.jpg',
-                'title': 'Swatantra Veer Savarkar',
-                'rating': '4.8',
-                'detailImage': 'https://www.hindustantimes.com/ht-img/img/2024/03/26/1600x900/Savarkar_1653715564344_1711427818301.jpeg',
-                'description': 'Swatantra Veer Savarkar is a biographical film about Vinayak Damodar Savarkar, a freedom fighter, writer, and leader in India’s struggle for independence. The movie traces his life, from his early years as a revolutionary to his imprisonment in the Andaman Cellular Jail. It highlights his ideas on Hindu nationalism, his opposition to British rule, and his contribution to the independence movement. The film also explores his controversial views on religion, politics, and his role in shaping India’s history. Through personal sacrifices, Savarkar emerges as a complex figure, deeply dedicated to India’s freedom and identity.',
-                'cast': [
-                  {'name': 'Randeep Hooda', 'imageUrl': 'https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSh7727tCY8ZsTjIq0pyL21UANFWffvBk7FjIAmQi15vLQMkqk8_aoMSCqdi8jXHo9y0AJ-emoqfS_1qwb0pPZ9MsWKWcaryJUMuVd_Cok'},
-                  {'name': 'Ankita Lokhande', 'imageUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfiQ8d_EttGEk6gRNi994OlRpbLMvT8FjOAgYRrAJRW4JfPSD'},
-                  {'name': 'Amit Sial', 'imageUrl': 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsr1L53YTniIgDDzCyutLk4-3uPMdk_-pDQYoixQJwS4ocj5GxppUe2VYPJxEubz6Mdsb14AF1QwGn87tgEfnhBRLdwJJpa-phMBlKNA'},
-                  
-                ],
-              },
 
               {
                 'url':
